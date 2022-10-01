@@ -1,13 +1,13 @@
 {
-  "main.css": "/pmcodes/static/css/main.11ffe94a.chunk.css",
-  "main.js": "/pmcodes/static/js/main.5ec6bf86.chunk.js",
-  "main.js.map": "/pmcodes/static/js/main.5ec6bf86.chunk.js.map",
-  "static/js/1.7d6420a6.chunk.js": "/pmcodes/static/js/1.7d6420a6.chunk.js",
-  "static/js/1.7d6420a6.chunk.js.map": "/pmcodes/static/js/1.7d6420a6.chunk.js.map",
-  "runtime~main.js": "/pmcodes/static/js/runtime~main.04f4d664.js",
-  "runtime~main.js.map": "/pmcodes/static/js/runtime~main.04f4d664.js.map",
-  "static/css/main.11ffe94a.chunk.css.map": "/pmcodes/static/css/main.11ffe94a.chunk.css.map",
-  "index.html": "/pmcodes/index.html",
-  "precache-manifest.65a2db5d613b1c902bf14827dc3de748.js": "/pmcodes/precache-manifest.65a2db5d613b1c902bf14827dc3de748.js",
-  "service-worker.js": "/pmcodes/service-worker.js"
+  "main.css": "/pmcodes/react-pmcodes/static/css/main.11ffe94a.chunk.css",
+  "main.js": "/pmcodes/react-pmcodes/static/js/main.5ec6bf86.chunk.js",
+  "main.js.map": "/pmcodes/react-pmcodes/static/js/main.5ec6bf86.chunk.js.map",
+  "static/js/1.7d6420a6.chunk.js": "/pmcodes/react-pmcodes/static/js/1.7d6420a6.chunk.js",
+  "static/js/1.7d6420a6.chunk.js.map": "/pmcodes/react-pmcodes/static/js/1.7d6420a6.chunk.js.map",
+  "runtime~main.js": "/pmcodes/react-pmcodes/static/js/runtime~main.6b388494.js",
+  "runtime~main.js.map": "/pmcodes/react-pmcodes/static/js/runtime~main.6b388494.js.map",
+  "static/css/main.11ffe94a.chunk.css.map": "/pmcodes/react-pmcodes/static/css/main.11ffe94a.chunk.css.map",
+  "index.html": "/pmcodes/react-pmcodes/index.html",
+  "precache-manifest.2149ae580de13a497ecebfc2b8bdf0f3.js": "/pmcodes/react-pmcodes/precache-manifest.2149ae580de13a497ecebfc2b8bdf0f3.js",
+  "service-worker.js": "/pmcodes/react-pmcodes/service-worker.js"
 }
